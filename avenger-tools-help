@@ -1,0 +1,12 @@
+Hello and welcome.
+This is the tools for installation marvel skeleton by @oktopriima.
+
+usage: ./avenger-tools [params]
+
+List acceptable params:
+
+create [project directory] [<commands>]: for create a new project
+    ./avenger-tools create [project directory] [<commands>]
+
+help: For checking available commands
+    ./avenger-tools help
